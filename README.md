@@ -4,7 +4,7 @@
 
 Atualmente estou mergulhando no mundo da programação com a galera da <b>Rocketseat</b>💜 <br>
 
-Aprendendo e aplicando tudo que posso sobre desenvolvimento!!<br>
+Aprendendo e aplicando tudo que posso sobre desenvolvimento!<br>
 
 </p>
 
@@ -15,7 +15,7 @@ Aprendendo e aplicando tudo que posso sobre desenvolvimento!!<br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebellatoGui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebellatoGui&layout=compact&langs_count=6&theme=dark"/>
-</div><br>
+</div>
 
 #
 
