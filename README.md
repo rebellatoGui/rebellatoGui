@@ -4,7 +4,7 @@
 
 Atualmente estou mergulhando no mundo da programação com a galera da <b>Rocketseat</b>💜 <br>
 
-Aprendendo e aplicando tudo que posso sobre desenvolvimento!<br>
+Aprendendo e aplicando tudo que posso sobre Desenvolvimento Web e Python!<br>
 
 </p>
 
