@@ -1,10 +1,12 @@
 ## Bem-vindo ao meu perfil no GitHub! 🚀
 
-<p>Atualmente estou mergulhando no mundo da programação com a galera da <b>Rocketseat</b>💜 <br>
-   
+<p>Tenho 23 anos, fascinado por tecnologia! 🖥️<br>
+
+Atualmente estou mergulhando no mundo da programação com a galera da <b>Rocketseat</b>💜 <br>
+
 Aprendendo e aplicando tudo que posso sobre desenvolvimento!!<br>
-   
-Gosto de transformar ideias em código e quanto mais desafiador, melhor!</p>
+
+</p>
 
 ## ⭐ GitHub Stats
 
