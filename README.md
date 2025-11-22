@@ -1,10 +1,11 @@
 ## Bem-vindo ao meu perfil no GitHub! 🚀
 
-<p>Tenho 23 anos, fascinado por tecnologia! 🖥️<br>
+<p>Tenho 23 anos, apaixonado por tecnologia! 🖥️<br>
 
 Atualmente estou mergulhando no mundo da programação com a galera da <b>Rocketseat</b>💜 <br>
 
-Aprendendo e aplicando tudo que posso sobre Desenvolvimento Web e Python!<br>
+Aprendendo e aplicando tudo que posso sobre Desenvolvimento Web e Python!
+Em constante busca por aprendizado e oportunidades de crescimento na área de TI.<br>
 
 </p>
 
