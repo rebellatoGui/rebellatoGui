@@ -3,7 +3,7 @@
 <p>
 Tenho 24 anos e transformo ideias em interfaces modernas e bem construídas.
 
-Estudante de Desenvolvimento de Sistemas na <b>UniAnchieta</b> e de Desenvolvimento Full Stack na <b>Rocketseat</b>.
+Técnico em Desenvolvimento de Sistemas na <b>UniAnchieta!</b> <br> Ciência da Computação na <b>Rocketseat!</b>
 
 Hoje meu foco está em Front-end, UI Design e na criação de experiências web premium com visual cinematográfico.
 
@@ -36,7 +36,7 @@ Hoje meu foco está em Front-end, UI Design e na criação de experiências web 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
