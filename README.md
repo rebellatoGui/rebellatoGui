@@ -9,7 +9,7 @@ Hoje meu foco está em Front-end, UI Design e na criação de experiências web 
 
 </p>
 
-##
+<h2 align="center">⭐️ GitHub Stats</h2>
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -33,10 +33,9 @@ Hoje meu foco está em Front-end, UI Design e na criação de experiências web 
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-## ⭐ GitHub Stats
+###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/main/github-metrics.svg">
   <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
