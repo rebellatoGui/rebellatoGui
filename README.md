@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil no GitHub! 💻
+## 💻 Bem-vindo ao meu perfil no GitHub!
 
 <p>
 Tenho 24 anos e transformo ideias em interfaces modernas e bem construídas.
@@ -9,7 +9,7 @@ Hoje meu foco está em Front-end, UI Design e na criação de experiências web 
 
 </p>
 
-<h2 align="center">⭐️ GitHub Stats</h2>
+## ⭐ GitHub Stats
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -36,7 +36,7 @@ Hoje meu foco está em Front-end, UI Design e na criação de experiências web 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
