@@ -36,7 +36,7 @@ Hoje meu foco está em Front-end, UI Design e na criação de experiências web 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
