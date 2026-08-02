@@ -1,31 +1,47 @@
-## Bem-vindo ao meu perfil no GitHub! 🚀
+## Bem-vindo ao meu perfil no GitHub! 💻
 
-<p>Tenho 23 anos, fascinado por tecnologia! 🖥️<br>
+<p>
+Tenho 24 anos e transformo ideias em interfaces modernas e bem construídas.
 
-Atualmente estou mergulhando no mundo da programação com a galera da <b>Rocketseat</b>💜 <br>
+Estudante de Desenvolvimento de Sistemas na <b>UniAnchieta</b> e de Desenvolvimento Full Stack na <b>Rocketseat</b>.
 
-Aprendendo e aplicando tudo que posso sobre Desenvolvimento Web e Python!<br>
+Hoje meu foco está em Front-end, UI Design e na criação de experiências web premium com visual cinematográfico.
 
 </p>
 
+##
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
 ## ⭐ GitHub Stats
 
-<div>
-   <a href="https://github.com/rebellatoGui">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebellatoGui&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebellatoGui&layout=compact&langs_count=6&theme=dark"/>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-#
+###
 
-<div style="display: inline-block">    
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">     
-</div>
+<img data-importer="snake" src="https://raw.githubusercontent.com/rebellatogui/rebellatogui/snake-output/snake.svg" alt="Snake animation" />
+
+###
